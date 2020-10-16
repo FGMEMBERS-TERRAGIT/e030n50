@@ -33,4 +33,6 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank15m_black.ac 30.106337 51.3902
 OBJECT_SHARED Models/Industrial/generic_tank_010m_brown.ac 30.100662 51.390162 35 0
 OBJECT_SHARED Models/Industrial/generic_tank_010m_brown.ac 30.100913 51.389988 35 0
 OBJECT_SHARED Models/Industrial/generic_tank_010m_brown.ac 30.100913 51.390135 35 0
-OBJECT_STATIC ChNPP.ac 30.09945 51.38921 109.65 270
+OBJECT_SHARED Models/Power/solar_park.ac 30.099084 51.392437 112.79 90
+OBJECT_SHARED Models/Misc/Daikanransha_Wheel.xml 30.055729 51.408321 115.19 0
+OBJECT_STATIC ChNPP.ac 30.09945 51.38921 113.25 270
