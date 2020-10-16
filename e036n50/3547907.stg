@@ -11,6 +11,7 @@ OBJECT_SHARED Models/Power/generic_pylon_25m.ac 36.829704 50.121048 115.21 195
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 36.850572 50.116585 118.76 155
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 36.905742 50.098927 138.54 165
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac 36.983521 50.095936 172.95 180
+OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.7503027 50.1000809 143.16 200
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.754898 50.101182 141.63 200
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.757529 50.101829 150.29 200
 OBJECT_SHARED Models/Power/Transmission_25m_Steel_H.ac 36.761101 50.102646 156.65 200

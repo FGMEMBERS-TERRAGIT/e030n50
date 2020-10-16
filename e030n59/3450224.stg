@@ -24,10 +24,6 @@ OBJECT_SHARED Models/Industrial/WaterWorks50m.xml 30.1299286 59.8178055 20.75 0
 OBJECT_SHARED Models/Industrial/WaterWorks50m.xml 30.1306336 59.8183232 20.44 0
 OBJECT_SHARED Models/Airport/localizer.xml 30.201141 59.802464 19.59 73.56
 OBJECT_SHARED Models/Airport/localizer.xml 30.227072 59.812466 19.67 73.51
-OBJECT_SHARED Models/Power/coal_heap_large.ac 30.0862514 59.7913551 29.63 284
-OBJECT_SHARED Models/Industrial/sand_heap_small.ac 30.082877 59.7925803 33.59 4
-OBJECT_SHARED Models/Industrial/sand_heap_small.ac 30.0843988 59.7907428 31.78 4
-OBJECT_SHARED Models/Industrial/sand_heap_small.ac 30.085412 59.7927458 29.01 8
 OBJECT_SHARED Models/Airport/kdp_start.ac 30.221194 59.797436 22.12 345
 OBJECT_SHARED Models/Airport/meteoradar.ac 30.22780762 59.806607 20.59 340.4
 OBJECT_SHARED Models/Misc/gen_othodox_church.ac 30.18391186 59.8146741 16.94 92
